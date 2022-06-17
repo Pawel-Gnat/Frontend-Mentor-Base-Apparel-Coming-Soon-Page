@@ -20,7 +20,7 @@ This is a solution to the [Base Apparel coming soon page challenge on Frontend M
 
 ### Links
 
-- Live Site URL: [Base Apparel Coming Soon Page](xx)
+- Live Site URL: [Base Apparel Coming Soon Page](https://pawel-gnat.github.io/Frontend-Mentor-Base-Apparel-Coming-Soon-Page/)
 
 ## My process
 
@@ -44,7 +44,7 @@ Below is my thinking process of Java Script code:
 
 ### What I learned
 
-I managed to do this challenge in 5 hours. I'm not happy with my challenge result. I should have added position absolute on my button to repair border-error on my input. I should have added a wrapper while I was coding html sheet, because I had some problems with positioning my desktop view. Also I know I have set background image wrong, it comes over my image, which is not a good idea. Anyway, I learned how to add image to input, how to use linear gradient and I have worked with my grid skills. 
+I managed to do this challenge in 5 hours. I'm not happy with my challenge result. I should have added position absolute on my button to repair border-error on my input. I should have added a wrapper while I was coding html sheet, because I had some problems with positioning my desktop view. Also I know I have set background image wrong, it comes over my image, which is not a good idea. Anyway, I learned how to add image to input, how to use linear gradient and I have worked with my grid skills.
 
 ## Author
 
